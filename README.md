@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/springframeworkguru/mssc-beer-service.svg?style=svg)](https://circleci.com/gh/springframeworkguru/mssc-beer-service)
+[//]: # ([![CircleCI]&#40;https://circleci.com/gh/springframeworkguru/mssc-beer-service.svg?style=svg&#41;]&#40;https://circleci.com/gh/springframeworkguru/mssc-beer-service&#41;)
 # MSSC Beer Service
 
 Source code in this repository is to support my online courses.
